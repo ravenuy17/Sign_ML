@@ -1,0 +1,10 @@
+tensorflow 
+numpy 
+scikit-learn 
+pyttsx3
+pickle 
+opencv-python
+speech-recognition 
+os
+model_loads
+random
